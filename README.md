@@ -4,4 +4,3 @@
 
 ### Languages and Tools: 
 
-KANINA
