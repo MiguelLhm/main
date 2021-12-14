@@ -1,4 +1,4 @@
-# Current Projects are undergoing refactoring
+# Current Projects are undergoing refactorization
 
 ### Connect with me: 
 
